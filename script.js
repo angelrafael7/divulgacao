@@ -1,0 +1,32 @@
+// Landing Page Content
+const landingPage = `<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #0d0d0d; color: #e5e5e5;"><div style="padding: 6rem 2rem; text-align: center;"><h1 style="font-size: clamp(2.5rem, 8vw, 5rem); font-weight: 700; margin-bottom: 1rem; color: #e5e5e5;">Criação de Sites Profissionais</h1><p style="font-size: 1.3rem; color: #a3a3a3; margin-bottom: 4rem; max-width: 700px; margin-left: auto; margin-right: auto;">Desenvolvemos sites modernos, responsivos e otimizados para impulsionar seu negócio no ambiente digital</p><div style="max-width: 1200px; margin: 0 auto; display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem;"><div style="background: #1f1f1f; padding: 3rem; border-radius: 12px; border: 1px solid #2a2a2a; text-align: left;"><div style="font-size: 2.5rem; margin-bottom: 1rem;">📄</div><h3 style="font-size: 1.5rem; margin-bottom: 1rem; color: #e5e5e5;">Site Básico</h3><div style="font-size: 2.5rem; font-weight: 700; color: #d4af37; margin-bottom: 2rem;">R$ 800</div><ul style="list-style: none; padding: 0; color: #a3a3a3; line-height: 2;"><li>✓ Design Responsivo</li><li>✓ Até 5 Páginas</li><li>✓ Formulário de Contato</li><li>✓ Integração WhatsApp</li><li>✓ SEO Básico</li><li>✓ Entrega em 5 dias úteis</li></ul></div><div style="background: #1f1f1f; padding: 3rem; border-radius: 12px; border: 2px solid #d4af37; text-align: left; position: relative;"><div style="position: absolute; top: -12px; left: 50%; transform: translateX(-50%); background: #d4af37; color: #0d0d0d; padding: 0.4rem 1.2rem; border-radius: 50px; font-size: 0.75rem; font-weight: 700;">MAIS POPULAR</div><div style="font-size: 2.5rem; margin-bottom: 1rem;">⭐</div><h3 style="font-size: 1.5rem; margin-bottom: 1rem; color: #e5e5e5;">Site Profissional</h3><div style="font-size: 2.5rem; font-weight: 700; color: #d4af37; margin-bottom: 2rem;">R$ 1.500</div><ul style="list-style: none; padding: 0; color: #a3a3a3; line-height: 2;"><li>✓ Tudo do Básico +</li><li>✓ Até 10 Páginas</li><li>✓ Galeria de Fotos/Vídeos</li><li>✓ Google Maps Integrado</li><li>✓ SEO Otimizado</li><li>✓ Blog (opcional)</li><li>✓ Entrega em 7 dias úteis</li></ul></div><div style="background: #1f1f1f; padding: 3rem; border-radius: 12px; border: 1px solid #2a2a2a; text-align: left;"><div style="font-size: 2.5rem; margin-bottom: 1rem;">💎</div><h3 style="font-size: 1.5rem; margin-bottom: 1rem; color: #e5e5e5;">Site Premium</h3><div style="font-size: 2.5rem; font-weight: 700; color: #d4af37; margin-bottom: 2rem;">R$ 2.500</div><ul style="list-style: none; padding: 0; color: #a3a3a3; line-height: 2;"><li>✓ Tudo do Profissional +</li><li>✓ Páginas Ilimitadas</li><li>✓ Área de Membros/Login</li><li>✓ Sistema de Agendamento</li><li>✓ Chat Online Integrado</li><li>✓ Animações Personalizadas</li><li>✓ 3 meses de suporte grátis</li><li>✓ Entrega em 10 dias úteis</li></ul></div></div><div style="margin-top: 6rem; padding: 4rem 2rem; background: #1a1a1a; border-radius: 12px; max-width: 900px; margin-left: auto; margin-right: auto; border: 1px solid #2a2a2a;"><h3 style="font-size: 2rem; margin-bottom: 1.5rem; color: #e5e5e5;">Por que escolher nossos serviços?</h3><div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 2rem; margin-top: 3rem;"><div style="text-align: center;"><div style="font-size: 2.5rem; margin-bottom: 0.8rem;">⚡</div><div style="font-size: 1rem; color: #a3a3a3;">Entrega Rápida</div></div><div style="text-align: center;"><div style="font-size: 2.5rem; margin-bottom: 0.8rem;">📱</div><div style="font-size: 1rem; color: #a3a3a3;">100% Responsivo</div></div><div style="text-align: center;"><div style="font-size: 2.5rem; margin-bottom: 0.8rem;">🎨</div><div style="font-size: 1rem; color: #a3a3a3;">Design Moderno</div></div><div style="text-align: center;"><div style="font-size: 2.5rem; margin-bottom: 0.8rem;">🔒</div><div style="font-size: 1rem; color: #a3a3a3;">Site Seguro</div></div></div></div><div style="margin-top: 5rem; padding: 4rem 2rem; background: #1f1f1f; border-radius: 12px; max-width: 700px; margin-left: auto; margin-right: auto; text-align: center; border: 1px solid #d4af37;"><h3 style="font-size: 2rem; margin-bottom: 1.5rem; color: #e5e5e5;">Pronto para começar?</h3><p style="font-size: 1.1rem; margin-bottom: 2.5rem; color: #a3a3a3;">Entre em contato e vamos transformar sua presença digital</p><div style="display: flex; flex-direction: column; gap: 1rem; max-width: 400px; margin: 0 auto;"><a href="https://wa.me/5548991521248?text=Olá!%20Quero%20fazer%20um%20orçamento%20de%20site" style="display: block; padding: 1.2rem 2rem; background: #d4af37; color: #0d0d0d; text-decoration: none; border-radius: 8px; font-weight: 700; font-size: 1rem;">💬 Falar no WhatsApp</a><a href="mailto:rafaelgwgu7@gmail.com" style="display: block; padding: 1.2rem 2rem; background: #2a2a2a; color: #e5e5e5; text-decoration: none; border-radius: 8px; font-weight: 700; font-size: 1rem;">📧 Enviar Email</a></div></div></div></div>`;
+
+// Function to open project modal
+function openProject() {
+    document.getElementById('modalBody').innerHTML = landingPage;
+    document.getElementById('projectModal').classList.add('active');
+    document.body.style.overflow = 'hidden';
+}
+
+// Function to close project modal
+function closeProject() {
+    document.getElementById('projectModal').classList.remove('active');
+    document.body.style.overflow = 'auto';
+}
+
+// Close modal with Escape key
+document.addEventListener('keydown', e => e.key === 'Escape' && closeProject());
+
+// Close modal when clicking outside
+document.getElementById('projectModal').addEventListener('click', e => e.target.id === 'projectModal' && closeProject());
+
+// Smooth scroll for navigation links
+document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function (e) {
+        e.preventDefault();
+        const target = document.querySelector(this.getAttribute('href'));
+        if (target) {
+            target.scrollIntoView({ behavior: 'smooth' });
+        }
+    });
+});
